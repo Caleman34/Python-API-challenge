@@ -8,8 +8,6 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/equatorsign.png)
-
 ### Before You Begin
 
 1. Create a new repository for this project called `python-api-challenge`. **Do not add this homework to an existing repository**.
