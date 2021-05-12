@@ -8,6 +8,8 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
+![Equator](Images/equatorsign.png)
+
 ### Before You Begin
 
 1. Create a new repository for this project called `python-api-challenge`. **Do not add this homework to an existing repository**.
@@ -63,6 +65,7 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Create a heat map that displays the humidity for every city from the part I of the homework.
 
+![heatmap](Images/heatmap.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
@@ -80,6 +83,7 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
+![hotel map](Images/hotel_map.png)
 
 As final considerations:
 
