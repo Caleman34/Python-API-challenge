@@ -17,7 +17,9 @@ In this example, you'll be creating a Python script to visualize the weather of 
 Created Scatterplots comparing Latitude to Temperature, Humidity, Cloudiness, and Wind Speed:
 
 * Temperature (F) vs. Latitude
+
 ![tempvslat](WeatherPY/Analysis/WeatherAPI/tempvslat.png)
+
 * Humidity (%) vs. Latitude
 
 * Cloudiness (%) vs. Latitude
