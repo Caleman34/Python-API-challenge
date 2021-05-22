@@ -17,42 +17,54 @@ In this example, you'll be creating a Python script to visualize the weather of 
 Created Scatterplots comparing Latitude to Temperature, Humidity, Cloudiness, and Wind Speed:
 
 * Temperature (F) vs. Latitude
+
 ![tempvslat](Images/tempvslat.png)
 
 * Humidity (%) vs. Latitude
+
 ![tempvslat](Images/humvslat.png)
 
 * Cloudiness (%) vs. Latitude
+
 ![tempvslat](Images/cloudvslat.png)
 
 * Wind Speed (mph) vs. Latitude
+
 ![tempvslat](Images/windvslat.png)
 
 Created Linear Regressions of Temperature, Humidity, Cloudiness, and Wind Speed of northern and southern hemishphere:
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
-![tempvslat](Images/nh_temp_v_lat.png.png)
+
+![tempvslat](Images/nh_temp_v_lat.png)
 
 * Southern Hemisphere - Temperature (F) vs. Latitude
-![tempvslat](Images/sh_temp_v_lat.png.png)
+
+![tempvslat](Images/sh_temp_v_lat.png)
 
 * Northern Hemisphere - Humidity (%) vs. Latitude
-![tempvslat](Images/nh_hum_v_lat.png.png)
+
+![tempvslat](Images/nh_hum_v_lat.png)
 
 * Southern Hemisphere - Humidity (%) vs. Latitude
-![tempvslat](Images/sh_hum_v_lat.png.png)
+
+![tempvslat](Images/sh_hum_v_lat.png)
 
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
-![tempvslat](Images/nh_cloud_v_lat.png.png)
+
+![tempvslat](Images/nh_cloud_v_lat.png)
 
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
-![tempvslat](Images/sh_cloud_v_lat.png.png)
+
+![tempvslat](Images/sh_cloud_v_lat.png)
 
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
-![tempvslat](Images/nh_wind_v_lat.png.png)
+
+![tempvslat](Images/nh_wind_v_lat.png)
 
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
-![tempvslat](Images/sh_wind_v_lat.png.png)
+
+![tempvslat](Images/sh_wind_v_lat.png)
 
 The final notebook must:
 
