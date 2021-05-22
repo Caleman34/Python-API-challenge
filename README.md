@@ -18,7 +18,7 @@ Created Scatterplots comparing Latitude to Temperature, Humidity, Cloudiness, an
 
 * Temperature (F) vs. Latitude
 
-![tempvslat](WeatherPy\Analysis\WeatherAPI/tempvslat.png)
+![tempvslat](Images/tempvslat.png)
 
 * Humidity (%) vs. Latitude
 
