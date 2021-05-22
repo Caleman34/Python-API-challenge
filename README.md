@@ -14,7 +14,7 @@ But, if pressed, how would you **prove** it?
 
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
-###Generated Scatterplots comparing Latitude to Temperature, Humidity, Cloudiness, and Wind Speed:
+### Generated Scatterplots comparing Latitude to Temperature, Humidity, Cloudiness, and Wind Speed:
 
 * Temperature (F) vs. Latitude
 
@@ -32,7 +32,7 @@ In this example, you'll be creating a Python script to visualize the weather of 
 
 ![tempvslat](Images/windvslat.png)
 
-###Generated Linear Regressions of Temperature, Humidity, Cloudiness, and Wind Speed of northern and southern hemishphere:
+### Generated Linear Regressions of Temperature, Humidity, Cloudiness, and Wind Speed of northern and southern hemishphere:
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 
@@ -66,7 +66,7 @@ In this example, you'll be creating a Python script to visualize the weather of 
 
 ![tempvslat](Images/sh_wind_v_lat.png)
 
-###The final notebook must:
+### The final notebook must:
 
 * Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
 * Perform a weather check on each of the cities using a series of successive API calls.
