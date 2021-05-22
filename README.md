@@ -14,7 +14,7 @@ But, if pressed, how would you **prove** it?
 
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
-Created Scatterplots comparing Latitude to Temperature, Humidity, Cloudiness, and Wind Speed:
+###Generated Scatterplots comparing Latitude to Temperature, Humidity, Cloudiness, and Wind Speed:
 
 * Temperature (F) vs. Latitude
 
@@ -32,7 +32,7 @@ Created Scatterplots comparing Latitude to Temperature, Humidity, Cloudiness, an
 
 ![tempvslat](Images/windvslat.png)
 
-Created Linear Regressions of Temperature, Humidity, Cloudiness, and Wind Speed of northern and southern hemishphere:
+###Generated Linear Regressions of Temperature, Humidity, Cloudiness, and Wind Speed of northern and southern hemishphere:
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 
@@ -66,14 +66,14 @@ Created Linear Regressions of Temperature, Humidity, Cloudiness, and Wind Speed 
 
 ![tempvslat](Images/sh_wind_v_lat.png)
 
-The final notebook must:
+###The final notebook must:
 
 * Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
 * Perform a weather check on each of the cities using a series of successive API calls.
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - VacationPy
+## Part II - VacationPy
 
 Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
